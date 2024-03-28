@@ -7,6 +7,7 @@
  * Chips
  * Mult
  * Number Times Played
+ * 
  */
 
 
@@ -22,6 +23,9 @@
 
 /**
  * On card selection:
+ * 
+ * For each hand type in order of priority:
+ * - Does the played hand meet the criteria?  Set hand name, base chips and mult
  * 
  * Hand type ranks:
  * - Straight Flush
