@@ -195,6 +195,8 @@ h2 {
   }
 }
 
+
+
 .scores {
   justify-content: center;
 
@@ -221,10 +223,19 @@ h2 {
     box-shadow: 4px 4px 0px -1px rgba(209,67,57,1);
 
   }
-
-
-
 }
+
+  .total {
+    margin: 10px;
+    background: rgb(29, 27, 27);
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+  }
+
+
+
+
 
   .times {
     font-size: 80px;
